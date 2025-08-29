@@ -1,19 +1,33 @@
-🚀 Hi there! I'm Álvaro Granados
+# 🚀 Álvaro Granados
 
-Junior Software Developer at Gefiscal | ETL Global
-📍 Based in Cork, Ireland (originally from Spain)
+**Junior Software Developer @ Gefiscal | ETL Global**  
+From 📍 Cork, Ireland to -> 📍 Cáceres, Spain | 🇪🇸 Originally from Spain
 
-After 8 years in social care, I pivoted to tech and haven’t looked back! Currently:
+Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!  
 
-    💻 Working with Blazor, C#, and SQL to build robust solutions.
+Actualmente estoy combinando backend, web y móvil:
 
-    📊 Expanding my expertise in Cyber Security, data pipelines, and backend development.
+- 💻 **Web Development:** Desarrollando una aplicación **Blazor** robusta con C# y SQL.  
+- 📱 **Mobile Development:** Aprendiendo **Kotlin** y creando mi primera **app Android**.  
+- 🔐 Explorando **Cyber Security**, pipelines de datos y optimización avanzada en **SQL**.  
+- ☁️ Ampliando conocimientos en **.NET**, integración en **Azure** y desarrollo fullstack.
 
-    🌱 Learning .NET ecosystem, cloud integration (Azure), and advanced SQL optimization.
+## Tech Stack
 
-Tech Toolkit:
-🛠️ Blazor | C# | SQL | Git | Kotlin
-🔧 Tools: Visual Studio | Android Studio | Azure Data Studio | SQL Server Management | VS Code
+**Languages & Frameworks:**  
+C# | Blazor | SQL | Kotlin
 
-Let’s connect!
-👉 <a href="https://www.linkedin.com/in/alvarogranadosruiz/">LinkedIn</a>
+**Tools & Platforms:**  
+Visual Studio | VS Code | Android Studio | SQL Server Management Studio | Azure Data Studio | Git
+
+---
+
+### Proyectos Activos
+
+- **Aplicación Web con Blazor:** Construyendo un dashboard interactivo y escalable para gestión de citas y finanzas.  
+- **App Android en Kotlin:** Pomodoro style para mi primer proyecto móvil, centrado en UX y buenas prácticas de Android.  
+
+---
+
+📫 Conectemos: [LinkedIn](https://www.linkedin.com/in/alvarogranadosruiz/)
+
