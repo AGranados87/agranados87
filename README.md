@@ -18,8 +18,6 @@ Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!
 
 ---
 
-🛠️ Tech Stack
-
 ## 🛠️ Lenguajes & Frameworks
 
 <table>
