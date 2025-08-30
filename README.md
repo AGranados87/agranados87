@@ -29,16 +29,12 @@ Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!
       C#
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="50" height="50"/><br/>
-      Blazor
-    </td>
-    <td align="center">
-  <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" width="50" height="50"/><br/>
-  SQL
-</td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/><br/>
       Kotlin
+    </td>
+    <td align="center">
+      <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" width="50" height="50"/><br/>
+      SQL
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br/>
@@ -47,6 +43,10 @@ Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br/>
       CSS3
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="50" height="50"/><br/>
+      Blazor
     </td>
   </tr>
 </table>
@@ -63,10 +63,10 @@ Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/><br/>
       VS Code
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50"/><br/>
-      Android Studio
-    </td>
+   <td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50"/><br/>
+  Android Studio
+</td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/><br/>
       SQL Server
