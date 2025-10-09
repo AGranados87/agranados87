@@ -91,19 +91,20 @@ Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!
 ---
 
 **🔥 Proyectos Activos**
-1️⃣ Matcha: Aplicación Web con Blazor
+
+1️⃣ **Matcha**: Aplicación Web con Blazor
 
 Dashboard interactivo para gestión de citas y finanzas.
 
 Escalable, seguro y con buenas prácticas de desarrollo fullstack.
 
-2️⃣ Mokka: App Android en Kotlin
+2️⃣ **Mokka**: App Android en Kotlin
 
 Primer proyecto móvil tipo Pomodoro.
 
 Enfoque en UX y buenas prácticas de Android.
 
-3️⃣ FileNest: Organizador de archivos
+3️⃣ **FileNest**: Organizador de archivos en Python
 
 Ordena por tipo y Año/NombreMes; GUI en Tkinter, ligera y sin anuncios.
 
