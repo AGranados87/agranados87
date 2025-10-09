@@ -1,4 +1,4 @@
-# 🚀 Álvaro Granados
+# 🚀 Álvaro Granados Ruiz
 
 **Junior Software Developer @ Gefiscal | ETL Global**  
 From 📍 Cork, Ireland -> 📍 Cáceres, Spain | 🇪🇸 Originally from Spain  
@@ -90,17 +90,24 @@ Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!
 
 ---
 
-## 🔥 Proyectos Activos
+**🔥 Proyectos Activos**
+1️⃣ Matcha: Aplicación Web con Blazor
 
-### 1️⃣ Aplicación Web con Blazor
-- Dashboard interactivo para **gestión de citas y finanzas**.  
-- Escalable, seguro y con buenas prácticas de desarrollo fullstack.
+Dashboard interactivo para gestión de citas y finanzas.
 
-### 2️⃣ App Android en Kotlin
-- Primer proyecto móvil tipo **Pomodoro**.  
-- Enfoque en UX y buenas prácticas de Android.
+Escalable, seguro y con buenas prácticas de desarrollo fullstack.
 
----
+2️⃣ Mokka: App Android en Kotlin
+
+Primer proyecto móvil tipo Pomodoro.
+
+Enfoque en UX y buenas prácticas de Android.
+
+3️⃣ FileNest: Organizador de archivos
+
+Ordena por tipo y Año/NombreMes; GUI en Tkinter, ligera y sin anuncios.
+
+Simulación, recursivo y deshacer; portable con PyInstaller y logo integrado.
 
 📫 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/alvarogranadosruiz/)
 
