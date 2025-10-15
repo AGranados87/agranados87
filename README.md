@@ -16,40 +16,11 @@ After 8 years in social care, I made the switch to tech… and never looked back
 | **Cyber Security & SQL** | Exploring data security, ETL pipelines, and advanced query optimization. |
 | **Fullstack & Cloud** | Deepening my skills in .NET, Azure integration, and full-stack development. |
 | **Python** | Learning my way into data science with Python |
----
 
-## 🛠️ Lenguajes & Frameworks
+## 🛠️ Languages & Frameworks
+<table> <tr> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/><br/> C# </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/><br/> Kotlin </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/><br/> Python </td> <td align="center"> <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" width="50" height="50"/><br/> SQL </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br/> HTML5 </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br/> CSS3 </td> <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="50" height="50"/><br/> Blazor </td> </tr> </table>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/><br/>
-      C#
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50"/><br/>
-      Kotlin
-    </td>
-    <td align="center">
-      <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" width="50" height="50"/><br/>
-      SQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br/>
-      HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br/>
-      CSS3
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="50" height="50"/><br/>
-      Blazor
-    </td>
-  </tr>
-</table>
-
-## 🛠️ Herramientas & Plataformas
+## 🛠️ Tools & IDEs
 
 <table>
   <tr>
