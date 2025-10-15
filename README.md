@@ -51,17 +51,7 @@ After 8 years in social care, I made the switch to tech… and never looked back
   </tr>
 </table>
 
-## 🌱 Mis habilidades (progreso)
-
-- **C# / Blazor:** ██████████ 90%  
-- **SQL / Azure:** █████████ 80%  
-- **Kotlin / Android:** ███████ 70%  
-- **Cyber Security:** ███████ 70%  
-- **Git / Dev Tools:** █████████ 85%  
-
----
-
-🔥 Active Projects
+## 🔥 Active Projects
 
 1️⃣ Matcha — Web App (Blazor)
 Interactive dashboard for appointment and finance management.
