@@ -7,7 +7,7 @@ After 8 years in social care, I made the switch to tech… and never looked back
 
 ---
 
-## 💻 Lo que hago
+## 💻 What Am I Doing?
 
 | Área | Descripción |
 |------|-------------|
