@@ -1,9 +1,9 @@
-# 🚀 Álvaro Granados Ruiz
+🚀 Álvaro Granados Ruiz
 
-**Junior Software Developer @ Gefiscal | ETL Global**  
-From 📍 Cork, Ireland -> 📍 Cáceres, Spain | 🇪🇸 Originally from Spain  
+Junior Software Developer @ Gefiscal | ETL Global
+From 📍 Cork, Ireland → 📍 Cáceres, Spain | 🇪🇸 Originally from Spain
 
-Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!  
+After 8 years in social care, I made the switch to tech… and never looked back!
 
 ---
 
@@ -11,11 +11,11 @@ Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!
 
 | Área | Descripción |
 |------|-------------|
-| **Web Development** | Desarrollo de aplicaciones **Blazor** con C# y SQL, creando dashboards interactivos y escalables. |
-| **Mobile Development** | Aprendiendo **Kotlin** y creando mi primera **app Android** tipo Pomodoro, centrada en UX. |
-| **Cyber Security & SQL** | Explorando seguridad, pipelines de datos y optimización avanzada de consultas. |
-| **Fullstack & Cloud** | Profundizando en **.NET**, integración en **Azure** y desarrollo fullstack. |
-
+| **Web Development** | Building Blazor apps with C# and SQL, creating interactive and scalable dashboards. |
+| **Mobile Development** | Learning Kotlin and developing my first Android Pomodoro app, focused on UX. |
+| **Cyber Security & SQL** | Exploring data security, ETL pipelines, and advanced query optimization. |
+| **Fullstack & Cloud** | Deepening my skills in .NET, Azure integration, and full-stack development. |
+| **Python** | Learning my way into data science with Python |
 ---
 
 ## 🛠️ Lenguajes & Frameworks
@@ -90,25 +90,20 @@ Después de 8 años en social care, hice pivot a tech… ¡y no miro atrás!
 
 ---
 
-**🔥 Proyectos Activos**
+🔥 Active Projects
 
-1️⃣ **Matcha**: Aplicación Web con Blazor
+1️⃣ Matcha — Web App (Blazor)
+Interactive dashboard for appointment and finance management.
+Scalable, secure, and built with full-stack best practices.
 
-Dashboard interactivo para gestión de citas y finanzas.
+2️⃣ Mokka — Android App (Kotlin)
+My first mobile project, a Pomodoro-style timer.
+Focused on UX and Android development best practices.
 
-Escalable, seguro y con buenas prácticas de desarrollo fullstack.
-
-2️⃣ **Mokka**: App Android en Kotlin
-
-Primer proyecto móvil tipo Pomodoro.
-
-Enfoque en UX y buenas prácticas de Android.
-
-3️⃣ **FileNest**: Organizador de archivos en Python
-
-Ordena por tipo y Año/NombreMes; GUI en Tkinter, ligera y sin anuncios.
-
-Simulación, recursivo y deshacer; portable con PyInstaller y logo integrado.
+3️⃣ FileNest — File Organizer (Python)
+Sorts files by type and by Year/MonthName; lightweight Tkinter GUI with no ads.
+Includes simulation mode, recursive scan, and undo feature.
+Portable build via PyInstaller with integrated icon.
 
 📫 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/alvarogranadosruiz/)
 
