@@ -1,4 +1,4 @@
-🚀 Álvaro Granados Ruiz
+## 🚀 Álvaro Granados Ruiz
 
 Junior Software Developer @ Gefiscal | ETL Global
 From 📍 Cork, Ireland → 📍 Cáceres, Spain | 🇪🇸 Originally from Spain
