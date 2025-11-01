@@ -62,5 +62,8 @@ Sorts files by type and by Year/MonthName; lightweight Tkinter GUI with no ads.
 Includes simulation mode, recursive scan, and undo feature.
 Portable build via PyInstaller with integrated icon.
 
-📫 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/alvarogranadosruiz/)
+📫 **Conectemos:** 
+[![LinkedIn](https://img.shields.io/badge/Seguir_en-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvarogranadosruiz/)
+
+              
 
